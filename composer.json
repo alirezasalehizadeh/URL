@@ -1,0 +1,20 @@
+{
+    "name": "alirezasalehizadeh/url",
+    "description": "An PHP tool for work with urls.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alirezasalehizadeh\\URL\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alireza Salehizadeh",
+            "email": "alirezasalehizadehco@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2"
+    },
+    "minimum-stability": "dev"
+}
